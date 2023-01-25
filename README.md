@@ -1,7 +1,7 @@
 # chatspace
 ❤️❤️A Dating App home pages inspired by **Tinder**  using ```HTML```, ```CSS``` and ```JAVASCRIPT``` (FRONTEND)
 
-<p><img width=400 align="center" src="https://www.creads.com/wp-content/uploads/2021/05/tinder_logo.jpg" alt="irycode" /></p>
+<p align="center"><img width=400 src="https://www.creads.com/wp-content/uploads/2021/05/tinder_logo.jpg" alt="irycode" /></p>
 
 ## Languaues and Tools used
 
