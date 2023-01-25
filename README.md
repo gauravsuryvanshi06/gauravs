@@ -10,8 +10,10 @@
 <img width="1378" alt="irycode chatspace tinder" src="https://user-images.githubusercontent.com/86270481/213945577-543de73d-c0b2-43e8-bbc1-59b8b1f769d6.png" alt="tinder chatspace homepage">
 
 ### Home Page Responsive
+<p align="center">
 <img width="328" alt="irycode chatspace tinder" src="https://user-images.githubusercontent.com/86270481/214655750-52fdb7a6-116c-4d3c-9506-d02db0db8ae8.png">
-
+<img width="324" alt=irycode chatspace tinder" src="https://user-images.githubusercontent.com/86270481/214656621-a258bafe-ee5c-4c7b-8294-3e83d16941dd.png">
+<p>
 
 Download the zip and open the **index.html** file (pages are linked by hyperlinks so you can easily navigate in the site)
 
